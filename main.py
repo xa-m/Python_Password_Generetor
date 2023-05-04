@@ -14,7 +14,7 @@ def set_encryption_key():
 
 def welcome_message():
     print("Welcome to the Password Generetor App made by github.com/xa-m\n")
-    print("How to use? -> https://github.com/xa-m/python-password-generetor\n")
+    print("How to use? -> https://github.com/xa-m/Python_Password_Generetor\n")
     print("Type following to access features:")
     print("    1. Generate password (default)")
     print("    2. Replace or Create new encryption key and passcode")
