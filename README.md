@@ -1,4 +1,4 @@
-#SHA-256 Password Password Generetor in Python
+# SHA-256 Password Password Generetor in Python
 
 ## Description
 This is a simple password generator in python, it uses the SHA-256 algorithm to generate a password with a length of 20 characters instead of the 64 characters that the algorithm generates. That's because the in some social media platforms there is a limit lenght for the password. The password includes numbers, letters with lower case and the capital M for the bypass the capital case requirement of the platforms. All of the passwords start with the question mark(?) symbol and continue with the capital M, then the actual encrypted password itself comes.
